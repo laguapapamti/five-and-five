@@ -7,13 +7,13 @@
 ### This is an H3 ######
 <table>
 <tr>
-    <img="/1zB8m1E.gif"alt="1"/>
-	<img="/7EEpRDQ.gif"alt="2"/>
-	<img="/BToFwXN.gif"alt="3"/>
-	<img="/cbsWTsj.gif"alt="4"/>
-	<img="/lDLCA4t.gif"alt="5"/>
-	<img="/oXbtba7.gif"alt="6"/>
-	<img="/sOEmYyY.gif"alt="7"/>
-	<img="/vcgaXAd.gif"alt="8"/>
+	<img>./1zB8m1E.gif</img>
+	<img>../7EEpRDQ.gif</img>
+	<img>/BToFwXN.gif</img>
+	<img>/cbsWTsj.gif</img>
+	<img>/lDLCA4t.gif</img>
+	<img>/oXbtba7.gif</img>
+	<img>/sOEmYyY.gif</img>
+	<img>/vcgaXAd.gif</img>
 </tr>
 </table>
